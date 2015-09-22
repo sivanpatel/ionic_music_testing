@@ -25,9 +25,13 @@
     "cordova-plugin-console",
     "cordova-plugin-whitelist",
     "cordova-plugin-splashscreen",
-    "com.ionic.keyboard"
+    "com.ionic.keyboard",
+    "org.apache.cordova.file",
+    "org.apache.cordova.media",
+    "https://github.com/dawsonloudon/VideoPlayer.git"
   ],
   "cordovaPlatforms": [
-    "android"
+    "android",
+    "ios"
   ]
 }
